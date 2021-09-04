@@ -266,6 +266,7 @@ textarea,
   font-weight: 600;
   white-space: nowrap;
   order: 1;
+	display: none
 }
 .typeWindows-1za-n7 > .wordmark-2iDDfm:before {
   content: "Myth";
@@ -282,6 +283,7 @@ textarea,
 .typeWindows-1za-n7 > .wordmark-2iDDfm > svg {
   filter: drop-shadow(0 0 5px var(--main-color));
   margin-top: 6px;
+	display: none
 }
 .typeWindows-1za-n7 > .wordmark-2iDDfm > svg > g > path {
   fill: var(--main-color);
